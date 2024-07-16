@@ -11,6 +11,11 @@ urls=(
     "https://download.jetbrains.com/toolbox/jetbrains-toolbox-2.4.0.32175.exe?_gl=1*nvkx3s*_gcl_au*MTcyOTM1NDU2My4xNzIxMDU3MDI5*_ga*Mzg4MjAzODExLjE3MjEwNTY3MTA.*_ga_9J976DJZ68*MTcyMTA1NjcwOS4xLjEuMTcyMTA1NzAyOS42MC4wLjA."
     "https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-user"
     "https://lf9-ug-sign.feishucdn.com/ee-appcenter/4632e52c/Feishu-win32_ia32-7.21.6-signed.exe?lk3s=fb957577&x-expires=1721062074&x-signature=3RU3eO%2FiJvGbSOZI9XRHgudG7CQ%3D"
+    "https://cdn.aliyundrive.net/downloads/apps/desktop/aDrive-6.0.0.exe?spm=aliyundrive.index.0.0.7db16f60iOXZ8N&file=aDrive-6.0.0.exe"
+    "https://download.vnpy.com/veighna_studio-3.9.2.exe"
+    "https://github.com/zhongyang219/TrafficMonitor/releases/download/V1.84.1/TrafficMonitor_V1.84.1_x64.zip"
+    "https://www.notion.so/desktop/windows/download"
+    "https://downloads.citrix.com/22748/CitrixWorkspaceApp.exe?__gda__=exp=1721098522~acl=/*~hmac=69fd44f1503c9d2cf171ad9413aaea0600db34cd3b53dc4c42549f601f3df46a"
 
 )
 

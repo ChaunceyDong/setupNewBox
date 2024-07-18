@@ -16,6 +16,7 @@ urls=(
     "https://github.com/zhongyang219/TrafficMonitor/releases/download/V1.84.1/TrafficMonitor_V1.84.1_x64.zip"
     "https://www.notion.so/desktop/windows/download"
     "https://downloads.citrix.com/22748/CitrixWorkspaceApp.exe?__gda__=exp=1721098522~acl=/*~hmac=69fd44f1503c9d2cf171ad9413aaea0600db34cd3b53dc4c42549f601f3df46a"
+    "https://github.com/git-for-windows/git/releases/download/v2.45.2.windows.1/Git-2.45.2-64-bit.exe"
 
 )
 
